@@ -8,3 +8,7 @@ MAIN project add go mod, go get, gorm
 | | BUKU add my buku, delete my book, view my book
 | |
 |tag v.1.0.2
+|
+| |TRANSAKSI PinjamBuku, Kembalikan Buku
+| | 
+| tag v.1.0.3
